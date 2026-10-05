@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+datasets
+iterative-stratification
+scikit-learn
+pandas
+numpy
+matplotlib
+tqdm
+ipywidgets
